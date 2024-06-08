@@ -61,7 +61,7 @@ namespace Salil.DataAccess.DbInitializer
                         EmailConfirmed = true,
                         firstName = "salil",
                         lastName = "singh"
-                    }, "Parihar00@").GetAwaiter().GetResult();
+                    }, "*******").GetAwaiter().GetResult();
 
                 ApplicationUser applicationUser= _dbContext.applicationUsers.FirstOrDefault(u=>
                 u.Email=="salilparihar92@gmail.com");
