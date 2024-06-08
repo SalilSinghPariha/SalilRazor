@@ -24,7 +24,7 @@ namespace Salil.Utility
             using (var smtpClient= new SmtpClient()) 
             {
                 smtpClient.Connect("smtp.gmail.com",587, MailKit.Security.SecureSocketOptions.StartTls);
-                smtpClient.Authenticate("akouanparihar@gmail.com", "jjplabcdkmobvlqp");
+                smtpClient.Authenticate("**********", "**********");
                 smtpClient.Send(emailSender);
                 smtpClient.Disconnect(true);
             }

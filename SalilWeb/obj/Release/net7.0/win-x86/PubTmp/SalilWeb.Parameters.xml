@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="SalilWebPlan" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\ssingh879\\OneDrive\ -\ DXC\ Production\\Desktop\\\.Net\ Full\ Stack\ Course\\Salil\\SalilWeb\\obj\\Release\\net7\.0\\win-x86\\PubTmp\\Out\\$" />
+  </parameter>
+</parameters>

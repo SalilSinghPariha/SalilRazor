@@ -1,0 +1,12 @@
+C:\Users\ssingh879\OneDrive - DXC Production\Desktop\.Net Full Stack Course\Salil\Salil.Model\bin\Debug\net7.0\Salil.Model.deps.json
+C:\Users\ssingh879\OneDrive - DXC Production\Desktop\.Net Full Stack Course\Salil\Salil.Model\bin\Debug\net7.0\Salil.Model.dll
+C:\Users\ssingh879\OneDrive - DXC Production\Desktop\.Net Full Stack Course\Salil\Salil.Model\bin\Debug\net7.0\Salil.Model.pdb
+C:\Users\ssingh879\OneDrive - DXC Production\Desktop\.Net Full Stack Course\Salil\Salil.Model\obj\Debug\net7.0\Salil.Model.csproj.AssemblyReference.cache
+C:\Users\ssingh879\OneDrive - DXC Production\Desktop\.Net Full Stack Course\Salil\Salil.Model\obj\Debug\net7.0\Salil.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ssingh879\OneDrive - DXC Production\Desktop\.Net Full Stack Course\Salil\Salil.Model\obj\Debug\net7.0\Salil.Model.AssemblyInfoInputs.cache
+C:\Users\ssingh879\OneDrive - DXC Production\Desktop\.Net Full Stack Course\Salil\Salil.Model\obj\Debug\net7.0\Salil.Model.AssemblyInfo.cs
+C:\Users\ssingh879\OneDrive - DXC Production\Desktop\.Net Full Stack Course\Salil\Salil.Model\obj\Debug\net7.0\Salil.Model.csproj.CoreCompileInputs.cache
+C:\Users\ssingh879\OneDrive - DXC Production\Desktop\.Net Full Stack Course\Salil\Salil.Model\obj\Debug\net7.0\Salil.Model.dll
+C:\Users\ssingh879\OneDrive - DXC Production\Desktop\.Net Full Stack Course\Salil\Salil.Model\obj\Debug\net7.0\refint\Salil.Model.dll
+C:\Users\ssingh879\OneDrive - DXC Production\Desktop\.Net Full Stack Course\Salil\Salil.Model\obj\Debug\net7.0\Salil.Model.pdb
+C:\Users\ssingh879\OneDrive - DXC Production\Desktop\.Net Full Stack Course\Salil\Salil.Model\obj\Debug\net7.0\ref\Salil.Model.dll

@@ -56,15 +56,15 @@ namespace Salil.DataAccess.DbInitializer
 
                 _userManager.CreateAsync(
                     new ApplicationUser{
-                        UserName= "salilparihar92@gmail.com",
-                        Email = "salilparihar92@gmail.com",
+                        UserName= "********************",
+                        Email = "*********************",
                         EmailConfirmed = true,
                         firstName = "salil",
                         lastName = "singh"
                     }, "*******").GetAwaiter().GetResult();
 
                 ApplicationUser applicationUser= _dbContext.applicationUsers.FirstOrDefault(u=>
-                u.Email=="salilparihar92@gmail.com");
+                u.Email=="***********");
 
                 _userManager.AddToRoleAsync(applicationUser, SD.managerRole).GetAwaiter().GetResult();
             }

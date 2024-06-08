@@ -1,0 +1,377 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\ssingh879\\OneDrive - DXC Production\\Desktop\\.Net Full Stack Course\\Salil\\SalilWeb\\obj\\Release\\net7.0\\scopedcss\\projectbundle\\SalilWeb.bundle.scp.css",
+      "PackagePath": "staticwebassets\\SalilWeb.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\ssingh879\\OneDrive - DXC Production\\Desktop\\.Net Full Stack Course\\Salil\\SalilWeb\\wwwroot\\css\\Bootswatch_Cyborg.css",
+      "PackagePath": "staticwebassets\\css\\Bootswatch_Cyborg.css"
+    },
+    {
+      "Id": "C:\\Users\\ssingh879\\OneDrive - DXC Production\\Desktop\\.Net Full Stack Course\\Salil\\SalilWeb\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\ssingh879\\OneDrive - DXC Production\\Desktop\\.Net Full Stack Course\\Salil\\SalilWeb\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\ssingh879\\OneDrive - DXC Production\\Desktop\\.Net Full Stack Course\\Salil\\SalilWeb\\wwwroot\\images\\MenuItems\\0b7f0c2f-a359-4e43-8a9c-68f754ef33ed.jpg",
+      "PackagePath": "staticwebassets\\images\\MenuItems\\0b7f0c2f-a359-4e43-8a9c-68f754ef33ed.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ssingh879\\OneDrive - DXC Production\\Desktop\\.Net Full Stack Course\\Salil\\SalilWeb\\wwwroot\\images\\MenuItems\\110e9553-b7b7-4c34-a265-d12776a3323e.jpg",
+      "PackagePath": "staticwebassets\\images\\MenuItems\\110e9553-b7b7-4c34-a265-d12776a3323e.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ssingh879\\OneDrive - DXC Production\\Desktop\\.Net Full Stack Course\\Salil\\SalilWeb\\wwwroot\\images\\MenuItems\\1888bdf0-2c00-4271-88da-be53cb51aca7.jpg",
+      "PackagePath": "staticwebassets\\images\\MenuItems\\1888bdf0-2c00-4271-88da-be53cb51aca7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ssingh879\\OneDrive - DXC Production\\Desktop\\.Net Full Stack Course\\Salil\\SalilWeb\\wwwroot\\images\\MenuItems\\19df9c44-f020-4a46-9628-6196133ff43b.jpeg",
+      "PackagePath": "staticwebassets\\images\\MenuItems\\19df9c44-f020-4a46-9628-6196133ff43b.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\ssingh879\\OneDrive - DXC Production\\Desktop\\.Net Full Stack Course\\Salil\\SalilWeb\\wwwroot\\images\\MenuItems\\26bf6487-a088-47a1-a60e-d3f5e8450966.jpg",
+      "PackagePath": "staticwebassets\\images\\MenuItems\\26bf6487-a088-47a1-a60e-d3f5e8450966.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ssingh879\\OneDrive - DXC Production\\Desktop\\.Net Full Stack Course\\Salil\\SalilWeb\\wwwroot\\images\\MenuItems\\54d94541-eec0-4b3c-8166-c21600e7d2ce.jpg",
+      "PackagePath": "staticwebassets\\images\\MenuItems\\54d94541-eec0-4b3c-8166-c21600e7d2ce.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ssingh879\\OneDrive - DXC Production\\Desktop\\.Net Full Stack Course\\Salil\\SalilWeb\\wwwroot\\images\\MenuItems\\6f4c1dee-3040-49c5-98a6-c33fd425b5b9.jpg",
+      "PackagePath": "staticwebassets\\images\\MenuItems\\6f4c1dee-3040-49c5-98a6-c33fd425b5b9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ssingh879\\OneDrive - DXC Production\\Desktop\\.Net Full Stack Course\\Salil\\SalilWeb\\wwwroot\\images\\MenuItems\\8348ccb4-febf-42ed-bd04-b2f6d3cd569a.jpg",
+      "PackagePath": "staticwebassets\\images\\MenuItems\\8348ccb4-febf-42ed-bd04-b2f6d3cd569a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ssingh879\\OneDrive - DXC Production\\Desktop\\.Net Full Stack Course\\Salil\\SalilWeb\\wwwroot\\images\\MenuItems\\8c749440-7b68-4812-8895-803b4320aada.jpeg",
+      "PackagePath": "staticwebassets\\images\\MenuItems\\8c749440-7b68-4812-8895-803b4320aada.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\ssingh879\\OneDrive - DXC Production\\Desktop\\.Net Full Stack Course\\Salil\\SalilWeb\\wwwroot\\images\\MenuItems\\8e68f20a-667b-45de-8d5a-bae52eba281c.jpg",
+      "PackagePath": "staticwebassets\\images\\MenuItems\\8e68f20a-667b-45de-8d5a-bae52eba281c.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ssingh879\\OneDrive - DXC Production\\Desktop\\.Net Full Stack Course\\Salil\\SalilWeb\\wwwroot\\images\\MenuItems\\9c6e7c4d-09e8-44ce-91e9-a9947594080d.jpg",
+      "PackagePath": "staticwebassets\\images\\MenuItems\\9c6e7c4d-09e8-44ce-91e9-a9947594080d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ssingh879\\OneDrive - DXC Production\\Desktop\\.Net Full Stack Course\\Salil\\SalilWeb\\wwwroot\\images\\MenuItems\\9dade428-4a57-4188-8106-faeeb831a76c.jpg",
+      "PackagePath": "staticwebassets\\images\\MenuItems\\9dade428-4a57-4188-8106-faeeb831a76c.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ssingh879\\OneDrive - DXC Production\\Desktop\\.Net Full Stack Course\\Salil\\SalilWeb\\wwwroot\\images\\MenuItems\\a41d8f37-d77a-4302-bd77-8761e56ff817.jpg",
+      "PackagePath": "staticwebassets\\images\\MenuItems\\a41d8f37-d77a-4302-bd77-8761e56ff817.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ssingh879\\OneDrive - DXC Production\\Desktop\\.Net Full Stack Course\\Salil\\SalilWeb\\wwwroot\\images\\MenuItems\\a5a25142-74dd-41db-bfe1-91cc0eda327a.png",
+      "PackagePath": "staticwebassets\\images\\MenuItems\\a5a25142-74dd-41db-bfe1-91cc0eda327a.png"
+    },
+    {
+      "Id": "C:\\Users\\ssingh879\\OneDrive - DXC Production\\Desktop\\.Net Full Stack Course\\Salil\\SalilWeb\\wwwroot\\images\\MenuItems\\a607c059-14d0-428c-9734-ce1294d77745.jpg",
+      "PackagePath": "staticwebassets\\images\\MenuItems\\a607c059-14d0-428c-9734-ce1294d77745.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ssingh879\\OneDrive - DXC Production\\Desktop\\.Net Full Stack Course\\Salil\\SalilWeb\\wwwroot\\images\\MenuItems\\b6ac5875-1b57-421d-b305-4f8139098a6b.jpg",
+      "PackagePath": "staticwebassets\\images\\MenuItems\\b6ac5875-1b57-421d-b305-4f8139098a6b.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ssingh879\\OneDrive - DXC Production\\Desktop\\.Net Full Stack Course\\Salil\\SalilWeb\\wwwroot\\images\\MenuItems\\bd5fc677-8c7c-4c82-8a48-ba08d37f686e.jpg",
+      "PackagePath": "staticwebassets\\images\\MenuItems\\bd5fc677-8c7c-4c82-8a48-ba08d37f686e.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ssingh879\\OneDrive - DXC Production\\Desktop\\.Net Full Stack Course\\Salil\\SalilWeb\\wwwroot\\images\\MenuItems\\caa5d16c-c283-4c5d-bbad-9c17b768a5a6.jpg",
+      "PackagePath": "staticwebassets\\images\\MenuItems\\caa5d16c-c283-4c5d-bbad-9c17b768a5a6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ssingh879\\OneDrive - DXC Production\\Desktop\\.Net Full Stack Course\\Salil\\SalilWeb\\wwwroot\\images\\MenuItems\\ef029498-6237-49b9-9e61-6da78e175f84.jpg",
+      "PackagePath": "staticwebassets\\images\\MenuItems\\ef029498-6237-49b9-9e61-6da78e175f84.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ssingh879\\OneDrive - DXC Production\\Desktop\\.Net Full Stack Course\\Salil\\SalilWeb\\wwwroot\\images\\MenuItems\\fb560807-917b-47e1-8c12-a1aef49e601c.jpg",
+      "PackagePath": "staticwebassets\\images\\MenuItems\\fb560807-917b-47e1-8c12-a1aef49e601c.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ssingh879\\OneDrive - DXC Production\\Desktop\\.Net Full Stack Course\\Salil\\SalilWeb\\wwwroot\\images\\MenuItems\\fe3afd71-ea8c-4e9f-b7c4-a7a64bbb37dc.jpg",
+      "PackagePath": "staticwebassets\\images\\MenuItems\\fe3afd71-ea8c-4e9f-b7c4-a7a64bbb37dc.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ssingh879\\OneDrive - DXC Production\\Desktop\\.Net Full Stack Course\\Salil\\SalilWeb\\wwwroot\\images\\lawn_leaf.jpg",
+      "PackagePath": "staticwebassets\\images\\lawn_leaf.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ssingh879\\OneDrive - DXC Production\\Desktop\\.Net Full Stack Course\\Salil\\SalilWeb\\wwwroot\\images\\mild.png",
+      "PackagePath": "staticwebassets\\images\\mild.png"
+    },
+    {
+      "Id": "C:\\Users\\ssingh879\\OneDrive - DXC Production\\Desktop\\.Net Full Stack Course\\Salil\\SalilWeb\\wwwroot\\images\\spicy.png",
+      "PackagePath": "staticwebassets\\images\\spicy.png"
+    },
+    {
+      "Id": "C:\\Users\\ssingh879\\OneDrive - DXC Production\\Desktop\\.Net Full Stack Course\\Salil\\SalilWeb\\wwwroot\\images\\verySpicy.png",
+      "PackagePath": "staticwebassets\\images\\verySpicy.png"
+    },
+    {
+      "Id": "C:\\Users\\ssingh879\\OneDrive - DXC Production\\Desktop\\.Net Full Stack Course\\Salil\\SalilWeb\\wwwroot\\js\\menuItems.js",
+      "PackagePath": "staticwebassets\\js\\menuItems.js"
+    },
+    {
+      "Id": "C:\\Users\\ssingh879\\OneDrive - DXC Production\\Desktop\\.Net Full Stack Course\\Salil\\SalilWeb\\wwwroot\\js\\orderList.js",
+      "PackagePath": "staticwebassets\\js\\orderList.js"
+    },
+    {
+      "Id": "C:\\Users\\ssingh879\\OneDrive - DXC Production\\Desktop\\.Net Full Stack Course\\Salil\\SalilWeb\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\ssingh879\\OneDrive - DXC Production\\Desktop\\.Net Full Stack Course\\Salil\\SalilWeb\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\ssingh879\\OneDrive - DXC Production\\Desktop\\.Net Full Stack Course\\Salil\\SalilWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\ssingh879\\OneDrive - DXC Production\\Desktop\\.Net Full Stack Course\\Salil\\SalilWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ssingh879\\OneDrive - DXC Production\\Desktop\\.Net Full Stack Course\\Salil\\SalilWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ssingh879\\OneDrive - DXC Production\\Desktop\\.Net Full Stack Course\\Salil\\SalilWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ssingh879\\OneDrive - DXC Production\\Desktop\\.Net Full Stack Course\\Salil\\SalilWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ssingh879\\OneDrive - DXC Production\\Desktop\\.Net Full Stack Course\\Salil\\SalilWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ssingh879\\OneDrive - DXC Production\\Desktop\\.Net Full Stack Course\\Salil\\SalilWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ssingh879\\OneDrive - DXC Production\\Desktop\\.Net Full Stack Course\\Salil\\SalilWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ssingh879\\OneDrive - DXC Production\\Desktop\\.Net Full Stack Course\\Salil\\SalilWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\ssingh879\\OneDrive - DXC Production\\Desktop\\.Net Full Stack Course\\Salil\\SalilWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ssingh879\\OneDrive - DXC Production\\Desktop\\.Net Full Stack Course\\Salil\\SalilWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ssingh879\\OneDrive - DXC Production\\Desktop\\.Net Full Stack Course\\Salil\\SalilWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ssingh879\\OneDrive - DXC Production\\Desktop\\.Net Full Stack Course\\Salil\\SalilWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ssingh879\\OneDrive - DXC Production\\Desktop\\.Net Full Stack Course\\Salil\\SalilWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ssingh879\\OneDrive - DXC Production\\Desktop\\.Net Full Stack Course\\Salil\\SalilWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ssingh879\\OneDrive - DXC Production\\Desktop\\.Net Full Stack Course\\Salil\\SalilWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ssingh879\\OneDrive - DXC Production\\Desktop\\.Net Full Stack Course\\Salil\\SalilWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\ssingh879\\OneDrive - DXC Production\\Desktop\\.Net Full Stack Course\\Salil\\SalilWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ssingh879\\OneDrive - DXC Production\\Desktop\\.Net Full Stack Course\\Salil\\SalilWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ssingh879\\OneDrive - DXC Production\\Desktop\\.Net Full Stack Course\\Salil\\SalilWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ssingh879\\OneDrive - DXC Production\\Desktop\\.Net Full Stack Course\\Salil\\SalilWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ssingh879\\OneDrive - DXC Production\\Desktop\\.Net Full Stack Course\\Salil\\SalilWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ssingh879\\OneDrive - DXC Production\\Desktop\\.Net Full Stack Course\\Salil\\SalilWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ssingh879\\OneDrive - DXC Production\\Desktop\\.Net Full Stack Course\\Salil\\SalilWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ssingh879\\OneDrive - DXC Production\\Desktop\\.Net Full Stack Course\\Salil\\SalilWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\ssingh879\\OneDrive - DXC Production\\Desktop\\.Net Full Stack Course\\Salil\\SalilWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ssingh879\\OneDrive - DXC Production\\Desktop\\.Net Full Stack Course\\Salil\\SalilWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ssingh879\\OneDrive - DXC Production\\Desktop\\.Net Full Stack Course\\Salil\\SalilWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ssingh879\\OneDrive - DXC Production\\Desktop\\.Net Full Stack Course\\Salil\\SalilWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ssingh879\\OneDrive - DXC Production\\Desktop\\.Net Full Stack Course\\Salil\\SalilWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ssingh879\\OneDrive - DXC Production\\Desktop\\.Net Full Stack Course\\Salil\\SalilWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ssingh879\\OneDrive - DXC Production\\Desktop\\.Net Full Stack Course\\Salil\\SalilWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ssingh879\\OneDrive - DXC Production\\Desktop\\.Net Full Stack Course\\Salil\\SalilWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\ssingh879\\OneDrive - DXC Production\\Desktop\\.Net Full Stack Course\\Salil\\SalilWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ssingh879\\OneDrive - DXC Production\\Desktop\\.Net Full Stack Course\\Salil\\SalilWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ssingh879\\OneDrive - DXC Production\\Desktop\\.Net Full Stack Course\\Salil\\SalilWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ssingh879\\OneDrive - DXC Production\\Desktop\\.Net Full Stack Course\\Salil\\SalilWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\ssingh879\\OneDrive - DXC Production\\Desktop\\.Net Full Stack Course\\Salil\\SalilWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ssingh879\\OneDrive - DXC Production\\Desktop\\.Net Full Stack Course\\Salil\\SalilWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ssingh879\\OneDrive - DXC Production\\Desktop\\.Net Full Stack Course\\Salil\\SalilWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ssingh879\\OneDrive - DXC Production\\Desktop\\.Net Full Stack Course\\Salil\\SalilWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\ssingh879\\OneDrive - DXC Production\\Desktop\\.Net Full Stack Course\\Salil\\SalilWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ssingh879\\OneDrive - DXC Production\\Desktop\\.Net Full Stack Course\\Salil\\SalilWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ssingh879\\OneDrive - DXC Production\\Desktop\\.Net Full Stack Course\\Salil\\SalilWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ssingh879\\OneDrive - DXC Production\\Desktop\\.Net Full Stack Course\\Salil\\SalilWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\ssingh879\\OneDrive - DXC Production\\Desktop\\.Net Full Stack Course\\Salil\\SalilWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\ssingh879\\OneDrive - DXC Production\\Desktop\\.Net Full Stack Course\\Salil\\SalilWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ssingh879\\OneDrive - DXC Production\\Desktop\\.Net Full Stack Course\\Salil\\SalilWeb\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\ssingh879\\OneDrive - DXC Production\\Desktop\\.Net Full Stack Course\\Salil\\SalilWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\ssingh879\\OneDrive - DXC Production\\Desktop\\.Net Full Stack Course\\Salil\\SalilWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ssingh879\\OneDrive - DXC Production\\Desktop\\.Net Full Stack Course\\Salil\\SalilWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\ssingh879\\OneDrive - DXC Production\\Desktop\\.Net Full Stack Course\\Salil\\SalilWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ssingh879\\OneDrive - DXC Production\\Desktop\\.Net Full Stack Course\\Salil\\SalilWeb\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\ssingh879\\OneDrive - DXC Production\\Desktop\\.Net Full Stack Course\\Salil\\SalilWeb\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\ssingh879\\OneDrive - DXC Production\\Desktop\\.Net Full Stack Course\\Salil\\SalilWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ssingh879\\OneDrive - DXC Production\\Desktop\\.Net Full Stack Course\\Salil\\SalilWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.SalilWeb.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.build.SalilWeb.props",
+      "PackagePath": "build\\SalilWeb.props"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.SalilWeb.props",
+      "PackagePath": "buildMultiTargeting\\SalilWeb.props"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.buildTransitive.SalilWeb.props",
+      "PackagePath": "buildTransitive\\SalilWeb.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

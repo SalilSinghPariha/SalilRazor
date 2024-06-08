@@ -1,0 +1,28 @@
+{
+  "version": 2,
+  "dgSpecHash": "fTLWY3szuSwDmko9CEETlTBMbwM2DwV0ADO2uqWQACf6GGYnUBACoI5W4XMIzqdYD+i59Az45jTygzNVWYfy/A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ssingh879\\OneDrive - DXC Production\\Desktop\\.Net Full Stack Course\\Salil\\Salil.Utility\\Salil.Utility.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ssingh879\\.nuget\\packages\\bouncycastle.cryptography\\2.3.0\\bouncycastle.cryptography.2.3.0.nupkg.sha512",
+    "C:\\Users\\ssingh879\\.nuget\\packages\\mailkit\\4.5.0\\mailkit.4.5.0.nupkg.sha512",
+    "C:\\Users\\ssingh879\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\7.0.18\\microsoft.aspnetcore.cryptography.internal.7.0.18.nupkg.sha512",
+    "C:\\Users\\ssingh879\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\7.0.18\\microsoft.aspnetcore.cryptography.keyderivation.7.0.18.nupkg.sha512",
+    "C:\\Users\\ssingh879\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.18\\microsoft.aspnetcore.identity.ui.7.0.18.nupkg.sha512",
+    "C:\\Users\\ssingh879\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\7.0.0\\microsoft.extensions.caching.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\ssingh879\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "C:\\Users\\ssingh879\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\ssingh879\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\7.0.0\\microsoft.extensions.fileproviders.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\ssingh879\\.nuget\\packages\\microsoft.extensions.fileproviders.embedded\\7.0.18\\microsoft.extensions.fileproviders.embedded.7.0.18.nupkg.sha512",
+    "C:\\Users\\ssingh879\\.nuget\\packages\\microsoft.extensions.identity.core\\7.0.18\\microsoft.extensions.identity.core.7.0.18.nupkg.sha512",
+    "C:\\Users\\ssingh879\\.nuget\\packages\\microsoft.extensions.identity.stores\\7.0.18\\microsoft.extensions.identity.stores.7.0.18.nupkg.sha512",
+    "C:\\Users\\ssingh879\\.nuget\\packages\\microsoft.extensions.logging\\7.0.0\\microsoft.extensions.logging.7.0.0.nupkg.sha512",
+    "C:\\Users\\ssingh879\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.0\\microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\ssingh879\\.nuget\\packages\\microsoft.extensions.options\\7.0.1\\microsoft.extensions.options.7.0.1.nupkg.sha512",
+    "C:\\Users\\ssingh879\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "C:\\Users\\ssingh879\\.nuget\\packages\\mimekit\\4.5.0\\mimekit.4.5.0.nupkg.sha512",
+    "C:\\Users\\ssingh879\\.nuget\\packages\\system.formats.asn1\\8.0.0\\system.formats.asn1.8.0.0.nupkg.sha512",
+    "C:\\Users\\ssingh879\\.nuget\\packages\\system.security.cryptography.pkcs\\8.0.0\\system.security.cryptography.pkcs.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAgVxc5yj4FkiAGnkV5v1ADQAAAAACAAAAAAAQZgAAAAEAACAAAAB5Lr6FZHTJIxcWYSglrrrhylG5zeMn/1DpjEdFKPmtNgAAAAAOgAAAAAIAACAAAAD1w7mVeQnt3N7mnE1brFIDj4rszAqJW7oWeqLUhJaYoIAAAAC3FfT5BFRb0wVJqG77La8xlM0VE2vohn2H/bJyJ6X5BHAta5leZ+hPlKiKRRCr9nvamUVDwhE52iRcN+kIU9YmgQz2eUFseC9/TBRXcXOPysjxvEoGYqbqtmWgxjAw3Fj9W24kh/eLgNudzyOBIilffM+/8YB1aXtbRNweLVzRi0AAAAAeLZFozZegwueseBJWO9362WIgQtcllQHYhTXB2wfBO6YYRiX7NKQkOwkyyuyzGhBBNI5avriF4DzlEo9ijdBy</EncryptedPassword>
+    <History>True|2024-05-23T18:32:58.6290442Z;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="BlazorConnectionString">
+      <Value>Server=tcp:salil.database.windows.net,1433%3bInitial Catalog=salil%3bPersist Security Info=False%3bUser ID=admin-sql%3bPassword=Parihar44%40%3bMultipleActiveResultSets=False%3bEncrypt=True%3bTrustServerCertificate=False%3bConnection Timeout=30%3b</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>
