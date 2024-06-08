@@ -1,0 +1,99 @@
+﻿@page
+@model SalilWeb.Pages.Admin.MenuItems.UpsertModel
+
+<form method="post" enctype="multipart/form-data">
+    <input asp-for="menuItem.Id" hidden/>
+    <div class="border p-3 mt-4">
+        
+     <div class="row pd-2">
+         <div class="col-9">
+      <h2 class="text-primary pl-3">
+         @(Model.menuItem.Id!=0?"Update":"Create") Menu Item
+      </h2>
+      <hr />
+       <div class="mb-3">
+           @* this is directly we can call model properties as input and use same while saving as well which will make job easier *@
+            <label asp-for="@Model.menuItem.Name"> </label>
+            <input asp-for="@Model.menuItem.Name" class="form-control" />
+            <span asp-validation-for="@Model.menuItem.Name" class="text-danger"> </span>
+       </div>
+        <div class="mb-3">
+            @* this is directly we can call model properties as input and use same while saving as well which will make job easier *@
+            <label asp-for="@Model.menuItem.Description"> </label>
+            <textarea asp-for="@Model.menuItem.Description" class="form-control"></textarea>
+            <span asp-validation-for="@Model.menuItem.Description" class="text-danger"> </span>
+        </div>
+        <div class="mb-3">
+            @* this is directly we can call model properties as input and use same while saving as well which will make job easier *@
+            <label asp-for="@Model.menuItem.Price"> </label>
+            <input asp-for="@Model.menuItem.Price" class="form-control" />
+            <span asp-validation-for="@Model.menuItem.Price" class="text-danger"> </span>
+        </div>
+        <div class="mb-3">
+            @* this is directly we can call model properties as input and use same while saving as well which will make job easier *@
+            <label asp-for="@Model.menuItem.Image"> </label>
+            <input type="file" name="Files" id="uploadBox" class="form-control" />
+        </div>
+         <div class="mb-3">
+            @* this is directly we can call model properties as input and use same while saving as well which will make job easier *@
+            <label asp-for="@Model.menuItem.CategoryId"> </label>
+            <select asp-for="@Model.menuItem.CategoryId" asp-items="@Model.CategoryList" class="form-select">
+                <option disabled selected>- Select Category -</option>
+            </select>
+            <span asp-validation-for="@Model.menuItem.CategoryId" class="text-danger"> </span>
+        </div>
+
+        <div class="mb-3">
+            @* this is directly we can call model properties as input and use same while saving as well which will make job easier *@
+            <label asp-for="@Model.menuItem.FoodTypeId"> </label>
+            <select asp-for="@Model.menuItem.FoodTypeId" asp-items="@Model.FoodTypeList" class="form-select">
+                <option disabled selected>- Select Food Type -</option>
+            </select>
+            <span asp-validation-for="@Model.menuItem.FoodTypeId" class="text-danger"> </span>
+        </div>
+        </div>
+            <div class="col-3">
+            @if (Model.menuItem.Id != 0)
+            {
+                <img src="@Model.menuItem.Image" height="200" width="200"/>
+            }
+        </div>
+        </div>
+        @if (Model.menuItem.Id != 0)
+        {
+            <button type="submit" class="btn btn-primary" style="width:150px;">Update</button>
+        }
+        else
+        {
+            <button type="submit" onclick="return ValidateInput()" class="btn btn-primary" style="width:150px;">Create</button>
+        }
+        <a asp-page="Index" class ="btn btn-secondary" style="width:150px;"> Back to List</a>
+    </div>
+</form>
+
+@section scripts{
+    <script>
+        tinymce.init({
+            selector: 'textarea',
+            plugins: 'anchor advlist autolink image link lists searchreplace wordcount casechange formatpainter print preview powerpaste autocorrect hr pagebreak',
+            toolbar: 'floating',
+        });
+
+        function ValidateInput() {
+            if (document.getElementById("uploadBox").value == "") {
+                Swal.fire({
+                    icon: "error",
+                    title: "Oops...",
+                    text: "Please upload an Image!!",
+                });
+                
+                return false;
+            }
+            return true;
+        }
+    </script>
+
+    @{
+    <Partial name="_ValidationScriptsPartial"/>
+}
+}

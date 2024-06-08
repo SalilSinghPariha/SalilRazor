@@ -1,0 +1,31 @@
+﻿@page
+@model SalilWeb.Pages.Admin.FoodTypes.CreateModel
+
+<form method="post">
+    <div class="border p-3 mt-4">
+        
+     <div class="row pd-2">
+      <h2 class="text-primary pl-3">
+          Create Category
+      </h2>
+      <hr />
+     </div>
+     <div asp-validation-summary="All"> </div>
+       <div class="mb-3">
+           @* this is directly we can call model properties as input and use same while saving as well which will make job easier *@
+            <label asp-for="@Model.foodType.Name"> </label>
+            <input asp-for="@Model.foodType.Name" class="form-control" />
+            <span asp-validation-for="@Model.foodType.Name" class="text-danger"> </span>
+       </div>
+       <button type ="submit" class="btn btn-primary" style="width:150px;">
+           Create
+       </button>
+        <a asp-page="Index" class ="btn btn-secondary" style="width:150px;"> Back to List</a>
+    </div>
+</form>
+
+@section scripts{
+    @{
+    <Partial name="_ValidationScriptsPartial"/>
+}
+}
